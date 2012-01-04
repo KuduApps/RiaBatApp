@@ -1,0 +1,3 @@
+D:\KuduTesting\RiaBat\RiaBat
+Generated_Code\RiaBat.Web.g.cs
+Generated_Code\Models\Shared\User.shared.cs

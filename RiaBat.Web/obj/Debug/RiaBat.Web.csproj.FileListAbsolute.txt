@@ -1,0 +1,9 @@
+D:\KuduTesting\RiaBat\RiaBat.Web\bin\RiaBat.Web.dll
+D:\KuduTesting\RiaBat\RiaBat.Web\bin\RiaBat.Web.pdb
+D:\KuduTesting\RiaBat\RiaBat.Web\obj\Debug\ResolveAssemblyReference.cache
+D:\KuduTesting\RiaBat\RiaBat.Web\obj\Debug\RiaBat.Web.Resources.ValidationErrorResources.resources
+D:\KuduTesting\RiaBat\RiaBat.Web\obj\Debug\RiaBat.Web.Resources.RegistrationDataResources.resources
+D:\KuduTesting\RiaBat\RiaBat.Web\obj\Debug\GenerateResource.read.1.tlog
+D:\KuduTesting\RiaBat\RiaBat.Web\obj\Debug\GenerateResource.write.1.tlog
+D:\KuduTesting\RiaBat\RiaBat.Web\obj\Debug\RiaBat.Web.dll
+D:\KuduTesting\RiaBat\RiaBat.Web\obj\Debug\RiaBat.Web.pdb

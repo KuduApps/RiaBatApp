@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RiaBat", "RiaBat\RiaBat.csproj", "{67441D91-FCFE-4780-8199-057F8192F1B3}"
+	ProjectSection(ProjectDependencies) = postProject
+		{128B6F9F-4B85-4971-8B1A-61A2FA77F8C6} = {128B6F9F-4B85-4971-8B1A-61A2FA77F8C6}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RiaBat.Web", "RiaBat.Web\RiaBat.Web.csproj", "{128B6F9F-4B85-4971-8B1A-61A2FA77F8C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67441D91-FCFE-4780-8199-057F8192F1B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67441D91-FCFE-4780-8199-057F8192F1B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67441D91-FCFE-4780-8199-057F8192F1B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67441D91-FCFE-4780-8199-057F8192F1B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{128B6F9F-4B85-4971-8B1A-61A2FA77F8C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{128B6F9F-4B85-4971-8B1A-61A2FA77F8C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{128B6F9F-4B85-4971-8B1A-61A2FA77F8C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{128B6F9F-4B85-4971-8B1A-61A2FA77F8C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

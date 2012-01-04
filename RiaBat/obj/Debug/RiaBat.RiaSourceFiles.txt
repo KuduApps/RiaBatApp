@@ -1,0 +1,1 @@
+D:\KuduTesting\RiaBat\RiaBat.Web\RiaBat.Web.csproj,634612033222042390,DomainService1.cs,GlobalSuppressions.cs,Resources\ValidationErrorResources.Designer.cs,Resources\RegistrationDataResources.Designer.cs,Services\AuthenticationService.cs,Properties\AssemblyInfo.cs,Models\User.cs,Models\RegistrationData.cs,Services\UserRegistrationService.cs,Models\Shared\User.shared.cs,
